@@ -1,0 +1,11 @@
+{
+  "name": "imageThumbifyer",
+  "version": "0.0.0",
+  "dependencies": {
+    "async": "^1.4.0",
+    "gm": "^1.18.1"
+  },
+  "scripts": {
+    "start": "imageThumbifyer.js"
+  }
+}
